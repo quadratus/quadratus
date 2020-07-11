@@ -2,4 +2,4 @@
 
 - 🔭 I’m currently working on my personal website
 - 🌱 I’m currently learning React/Nextjs
-- ⚡ Fun fact: Half the reason I like coding because I like typing. 
+- ⚡ Fun fact: Half the reason I like coding is I like typing. 
